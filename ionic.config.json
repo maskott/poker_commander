@@ -1,6 +1,8 @@
 {
   "name": "poker_commander",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "ionic-angular",
   "id": "09782098"
 }
